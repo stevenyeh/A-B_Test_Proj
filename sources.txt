@@ -1,0 +1,8 @@
+Calculating Sample size
+http://www.evanmiller.org/ab-testing/sample-size.html
+
+Udacity Forums 
+https://discussions.udacity.com/c/nd002-p7-design-an-a-b-test
+
+Stackoverflow
+http://stackoverflow.com/questions/tagged/ab-testing
