@@ -1,2 +1,1 @@
-# Project7
-Executing an A/B Test
+# Executing an A/B Test
